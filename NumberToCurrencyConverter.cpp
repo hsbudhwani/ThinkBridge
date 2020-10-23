@@ -1,4 +1,4 @@
-// C++ program to print a given number in words. 
+// C++ program to Convert Number To Currency.
 
 #include <iostream>
 #include<cmath>
